@@ -1,1 +1,0 @@
-# Movie-rating-website-by-ReactJS
